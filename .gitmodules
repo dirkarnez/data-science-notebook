@@ -1,3 +1,4 @@
 [submodule "docker-jupyter-notebook"]
 	path = docker-jupyter-notebook
 	url = https://github.com/dirkarnez/docker-jupyter-notebook
+	branch = master
